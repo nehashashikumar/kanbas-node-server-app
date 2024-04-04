@@ -1,0 +1,28 @@
+{
+  "name": "kanbas-node-server-app",
+  "version": "1.0.0",
+  "description": "NodeJS HTTP applNode.js HTTP Web server for the Kanbas application",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/nehashashikumar/kanbas-node-server-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehashashikumar/kanbas-node-server-app.git"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HTTP",
+    "Web",
+    "Development",
+    "CS5610"
+  ],
+  "author": "Neha Shashikumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nehashashikumar/kanbas-node-server-app/issues"
+  },
+  "homepage": "https://github.com/nehashashikumar/kanbas-node-server-app#readme"
+}
