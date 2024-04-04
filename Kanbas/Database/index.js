@@ -6,4 +6,4 @@ import users from "./users.js";
 import enrollments from "./enrollments.js";
 import grades from "./grades.js";
 
-export {  courses, modules, moduleCalendar, assignments, users, enrollments, grades };
+export default {  courses, modules, moduleCalendar, assignments, users, enrollments, grades };
