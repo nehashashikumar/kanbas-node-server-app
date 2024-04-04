@@ -1,4 +1,4 @@
-[
+export default [
     { "_id": "1", "user": "121", "course": "CS5800" },
     { "_id": "2", "user": "122", "course": "CS5800" },
     { "_id": "3", "user": "123", "course": "CS5800" },

@@ -1,4 +1,4 @@
-[
+export default [
     {
       "_id": "CS1234",
       "desc": "CS1234.12631.202410",
