@@ -23,7 +23,7 @@ const sessionOptions = {
 };
 app.use(
   cors({
-    origin: "https://a6--taupe-starship-45720c.netlify.app",
+    origin:[ "process.env.FRONTEND_URL", "http://localhost:3000"],
     credentials: true,
   })
 );
