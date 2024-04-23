@@ -24,7 +24,7 @@ const sessionOptions = {
 };
 app.use(
   cors({
-    origin: "https://a6--moonlit-malasada-879caa.netlify.app",
+    origin: "https://a6--taupe-starship-45720c.netlify.app",
     credentials: true,
   })
 );
@@ -33,7 +33,7 @@ if (process.env.NODE_ENV !== "development") {
   sessionOptions.cookie = {
     sameSite: "none",
     secure: true,
-    domain: "kanbas-node-server-app-a6-lgm0.onrender.com",
+    domain: "http://localhost:4000/",
   };
 }
 
