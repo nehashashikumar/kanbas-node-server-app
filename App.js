@@ -33,7 +33,7 @@ if (process.env.NODE_ENV !== "development") {
   sessionOptions.cookie = {
     sameSite: "none",
     secure: true,
-    domain: "http://localhost:4000/",
+    domain: "https://kanbas-node-server-app-1-ioph.onrender.com",
   };
 }
 
